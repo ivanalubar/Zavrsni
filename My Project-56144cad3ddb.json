@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mystical-runway-175519",
+  "private_key_id": "56144cad3ddbd78b7d249d4291e6a5ea68f697f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcEK/RARIsYnyB\nKSnY8krJKLz7Hk8CQgpt3nUqHVfIPWo3k3z8uSC2TD+qNNY2n4x1+nd6efYV4Zx4\nQbNKfTMqt/24Dvya79hujyhwW+zMvBOgmIFldCpyGYix5jPVCict9/nlKPyQ1Pj6\n1Ft4jHCjtCoWV7O9dV/o/gzmqqexNeUDVTLugLqAUu8qagYrfvrH6YFPJtrjeB/J\noo84454diWtDU3JmfSTA2DFWEihjFbtdmk40wVitR36Ia091z6f1LBLHKqadrb3X\n3zy9E/FcCJ6HbpIOU9DgoxFHqmnl5XMiVcCdMyQHvXXrjeXfxXVb9cQiS6dBWoPu\nI+SPkKZjAgMBAAECggEASGcNEVyi2AuHHw+l/wSoakqG8q/kGsATolZAghypVu4t\n1h8mTheylYe8oolDuTEBC4fea2NY/ZX+3unuzSEoBnQGe9oibe9fa/CZw23bGPkA\nFCRY3kI7/NI90RoGD5+JiGw/wY+cmSIY0J2xgpXiMVoDRtqP/lNxvLxpDjMzfO+8\nNhSqSCyMcgXU7ThJJufzh6etbo/bZBH9ajwLDb9gi3SN66/F8Le2qGldhUbINSVc\nDPK3hO/U4d3JGyqTSNxx6plAuH0lfxRMAlyr9HwEnx5jJNwG7IbjGNqL8cNEZvG6\naxs7Sq/2UZKiYYhBTBr+BjAcGYeJ0klAFWV/BqTjMQKBgQDxlBhjkMkpH9KR1E3H\niOKAINXaCBOD4t+47LvNPWRm1edoPNiuaTbXbtPfQx8+Ucx1JZAEq9OnORAwwTD9\nwqwz054sdtpd8LXGwkaXoaBsI2I7tTHM5EtC7HAiFDd6yDHax/El2OH1ERjfRWRq\n4aRs6WD3MyT5BGWDW/30Wvwt9QKBgQDpM9Dh7NI6CMhHQ6tgxF09Xsf8yEJnaUvm\nZa6Jcmi/znJWm0W4/UdasAZjI6+UCdvpg03ilB7NDL/B7ggdqAdgk3617Gr/aw26\nEwwjohajgcw7spgxXaJ0Ewxu+MJulEjwIVY1xz8mEH2NLDKc02I8jg2dNcZCCDSi\nvq0LiOaz9wKBgDrqYjROCDEmWKVGAJ4MDSkwWNcupwvAFc20tmxsb4MA4cmzJSkL\n8dsCZVuKtCDvtAxR19i7ywd6TC+Hvhn1EygkkOvJJKJKZRqPIMY0HbqhuoBTRUzx\n1EUDAqndAlbIYhg4MOCJDzpELCuvcbj7RK1nEUXYTEkKwHMTyVCBrATNAoGAIQdH\ntFfYRoPr6bv5z9C/6+s6o+CxFvhg2ZbZK3pav5+7rex76YFl08BOh0gMnAjxbpc8\nNrUHz77Ygdz2pUyhDtqU/asoVFiTLyF3fKx+TFYb2PCogYVjdtEj16u/ze2OjwQJ\ns8Auf3OidJYn7PI7XZw47WUqWTvUSKB83b9b/W0CgYEA77ZVLb3E7iHo317n7jRr\nQCu8yMdq4eK13UjzozEBUUQhsFj8wP7bV9Q/9VlSTGazMQbkFB3ES04bMhWJUMwI\nWfYhJsn428Wsk+CGK4YOlgOGdjd4Q4P+U5lIFKnPZwAE0xUFVJDrV07kX6dq1T7n\n8dTjL6vL3w5pcmG5VpSxG+k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "zavrsni@mystical-runway-175519.iam.gserviceaccount.com",
+  "client_id": "109247551896662054992",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zavrsni%40mystical-runway-175519.iam.gserviceaccount.com"
+}
